@@ -4,3 +4,6 @@
 [submodule "arpfox-git/arpfox-git-aur"]
 	path = arpfox-git/arpfox-git-aur
 	url = ssh://aur@aur.archlinux.org/gofetch-git.git
+[submodule "gofetch-git/gofetch-git-aur"]
+	path = gofetch-git/gofetch-git-aur
+	url = ssh://aur@aur.archlinux.org/gofetch-git.git
