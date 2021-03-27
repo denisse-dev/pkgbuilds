@@ -3,7 +3,10 @@
 	url = ssh://aur@aur.archlinux.org/arpfox-bin.git
 [submodule "arpfox-git/arpfox-git-aur"]
 	path = arpfox-git/arpfox-git-aur
-	url = ssh://aur@aur.archlinux.org/gofetch-git.git
+	url = ssh://aur@aur.archlinux.org/arpfox-git.git
 [submodule "gofetch-git/gofetch-git-aur"]
 	path = gofetch-git/gofetch-git-aur
 	url = ssh://aur@aur.archlinux.org/gofetch-git.git
+[submodule "arpfox/arpfox-aur"]
+	path = arpfox/arpfox-aur
+	url = ssh://aur@aur.archlinux.org/arpfox.git
