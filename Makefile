@@ -33,4 +33,4 @@ upload-aur: ## push updated PKGBUILD and .SRCINFO to the AUR
 update-checksums: ## update PKGBUILD checksums
 	updpkgsums $(pkg)/PKGBUILD
 
-update-pkg: check update-checksums build update-aur	upload-aur ## update the and upload the package to the AUR
+update-pkg: check update-checksums build srcinfo update-aur	upload-aur ## update the and upload the package to the AUR
