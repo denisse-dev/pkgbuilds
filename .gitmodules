@@ -40,3 +40,6 @@
 [submodule "xmountains-git/xmountains-git-aur"]
 	path = xmountains-git/xmountains-git-aur
 	url = ssh://aur@aur.archlinux.org/xmountains-git.git
+[submodule "hyperfox-git/hyperfox-git-aur"]
+	path = hyperfox-git/hyperfox-git-aur
+	url = ssh://aur@aur.archlinux.org/hyperfox-git.git
