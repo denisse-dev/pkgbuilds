@@ -31,3 +31,6 @@
 [submodule "shhgit/shhgit-aur"]
 	path = shhgit/shhgit-aur
 	url = ssh://aur@aur.archlinux.org/shhgit.git
+[submodule "xmountains/xmountains-aur"]
+	path = xmountains/xmountains-aur
+	url = ssh://aur@aur.archlinux.org/xmountains.git
