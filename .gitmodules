@@ -22,3 +22,12 @@
 [submodule "gitrob-git/gitrob-git-aur"]
 	path = gitrob-git/gitrob-git-aur
 	url = ssh://aur@aur.archlinux.org/gitrob-git.git
+[submodule "gitrob-bin/shhgit-aur"]
+	path = gitrob-bin/gitrob-bin-aur
+	url = ssh://aur@aur.archlinux.org/shhgit.git
+[submodule "shhgit-git/shhgit-aur"]
+	path = shhgit-git/shhgit-aur
+	url = ssh://aur@aur.archlinux.org/shhgit.git
+[submodule "shhgit/shhgit-aur"]
+	path = shhgit/shhgit-aur
+	url = ssh://aur@aur.archlinux.org/shhgit.git
