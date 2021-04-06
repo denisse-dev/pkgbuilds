@@ -19,3 +19,6 @@
 [submodule "gitrob/gitrob-aur"]
 	path = gitrob/gitrob-aur
 	url = ssh://aur@aur.archlinux.org/gitrob.git
+[submodule "gitrob-git/gitrob-git-aur"]
+	path = gitrob-git/gitrob-git-aur
+	url = ssh://aur@aur.archlinux.org/gitrob-git.git
