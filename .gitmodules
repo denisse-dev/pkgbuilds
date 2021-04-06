@@ -43,3 +43,6 @@
 [submodule "hyperfox-git/hyperfox-git-aur"]
 	path = hyperfox-git/hyperfox-git-aur
 	url = ssh://aur@aur.archlinux.org/hyperfox-git.git
+[submodule "hyperfox-bin/hyperfox-bin-aur"]
+	path = hyperfox-bin/hyperfox-bin-aur
+	url = ssh://aur@aur.archlinux.org/hyperfox-bin.git
