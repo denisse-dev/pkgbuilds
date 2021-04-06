@@ -13,3 +13,6 @@
 [submodule "teleirc/teleirc-aur"]
 	path = teleirc/teleirc-aur
 	url = ssh://aur@aur.archlinux.org/teleirc.git
+[submodule "teleirc-bin/teleirc-bin-aur"]
+	path = teleirc-bin/teleirc-bin-aur
+	url = ssh://aur@aur.archlinux.org/teleirc-bin.git
