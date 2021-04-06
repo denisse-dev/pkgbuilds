@@ -10,3 +10,6 @@
 [submodule "arpfox/arpfox-aur"]
 	path = arpfox/arpfox-aur
 	url = ssh://aur@aur.archlinux.org/arpfox.git
+[submodule "teleirc/teleirc-aur"]
+	path = teleirc/teleirc-aur
+	url = ssh://aur@aur.archlinux.org/teleirc.git
