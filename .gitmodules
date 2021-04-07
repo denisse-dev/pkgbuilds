@@ -49,3 +49,6 @@
 [submodule "gitflux-git/gitflux-git-aur"]
 	path = gitflux-git/gitflux-git-aur
 	url = ssh://aur@aur.archlinux.org/gitflux-git.git
+[submodule "beehive-bin/beehive-bin-aur"]
+	path = beehive-bin/beehive-bin-aur
+	url = ssh://aur@aur.archlinux.org/beehive-bin.git
