@@ -52,3 +52,6 @@
 [submodule "beehive-bin/beehive-bin-aur"]
 	path = beehive-bin/beehive-bin-aur
 	url = ssh://aur@aur.archlinux.org/beehive-bin.git
+[submodule "oauth2-proxy/oauth2-proxy-aur"]
+	path = oauth2-proxy/oauth2-proxy-aur
+	url = ssh://aur@aur.archlinux.org/oauth2-proxy.git
