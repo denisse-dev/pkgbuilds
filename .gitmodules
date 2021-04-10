@@ -58,3 +58,6 @@
 [submodule "oauth2-proxy-git/oauth2-proxy-git-aur"]
 	path = oauth2-proxy-git/oauth2-proxy-git-aur
 	url = ssh://aur@aur.archlinux.org/oauth2-proxy-git.git
+[submodule "oauth2-proxy-bin/oauth2-proxy-bin-aur"]
+	path = oauth2-proxy-bin/oauth2-proxy-bin-aur
+	url = ssh://aur@aur.archlinux.org/oauth2-proxy-bin.git
