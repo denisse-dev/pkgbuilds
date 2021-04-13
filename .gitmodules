@@ -61,3 +61,6 @@
 [submodule "oauth2-proxy-bin/oauth2-proxy-bin-aur"]
 	path = oauth2-proxy-bin/oauth2-proxy-bin-aur
 	url = ssh://aur@aur.archlinux.org/oauth2-proxy-bin.git
+[submodule "benthos-git/benthos-git-aur"]
+	path = benthos-git/benthos-git-aur
+	url = ssh://aur@aur.archlinux.org/benthos-git.git
