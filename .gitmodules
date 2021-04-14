@@ -67,3 +67,6 @@
 [submodule "benthos/benthos-aur"]
 	path = benthos/benthos-aur
 	url = ssh://aur@aur.archlinux.org/benthos.git
+[submodule "benthos-bin/benthos-bin-aur"]
+	path = benthos-bin/benthos-bin-aur
+	url = ssh://aur@aur.archlinux.org/benthos-bin.git
