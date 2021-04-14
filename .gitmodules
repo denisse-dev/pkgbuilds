@@ -73,3 +73,6 @@
 [submodule "fm-git/fm-git-aur"]
 	path = fm-git/fm-git-aur
 	url = ssh://aur@aur.archlinux.org/fm-git.git
+[submodule "spaghetti-git/spaghetti-git-aur"]
+	path = spaghetti-git/spaghetti-git-aur
+	url = ssh://aur@aur.archlinux.org/spaghetti-git.git
