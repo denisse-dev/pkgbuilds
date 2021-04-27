@@ -76,3 +76,6 @@
 [submodule "spaghetti-git/spaghetti-git-aur"]
 	path = spaghetti-git/spaghetti-git-aur
 	url = ssh://aur@aur.archlinux.org/spaghetti-git.git
+[submodule "go-licenses-git/go-licenses-git-aur"]
+	path = go-licenses-git/go-licenses-git-aur
+	url = ssh://aur@aur.archlinux.org/go-licenses-git.git
