@@ -79,3 +79,6 @@
 [submodule "go-licenses-git/go-licenses-git-aur"]
 	path = go-licenses-git/go-licenses-git-aur
 	url = ssh://aur@aur.archlinux.org/go-licenses-git.git
+[submodule "lokoctl/lokoctl-aur"]
+	path = lokoctl/lokoctl-aur
+	url = ssh://aur@aur.archlinux.org/lokoctl.git
