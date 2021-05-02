@@ -82,3 +82,6 @@
 [submodule "lokoctl/lokoctl-aur"]
 	path = lokoctl/lokoctl-aur
 	url = ssh://aur@aur.archlinux.org/lokoctl.git
+[submodule "critcmp/critcmp-aur"]
+	path = critcmp/critcmp-aur
+	url = ssh://aur@aur.archlinux.org/critcmp.git
