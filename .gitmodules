@@ -85,3 +85,6 @@
 [submodule "critcmp/critcmp-aur"]
 	path = critcmp/critcmp-aur
 	url = ssh://aur@aur.archlinux.org/critcmp.git
+[submodule "matchbox/matchbox-aur"]
+	path = matchbox/matchbox-aur
+	url = ssh://aur@aur.archlinux.org/matchbox.git
