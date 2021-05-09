@@ -88,3 +88,6 @@
 [submodule "matchbox/matchbox-aur"]
 	path = matchbox/matchbox-aur
 	url = ssh://aur@aur.archlinux.org/matchbox.git
+[submodule "vvgo/vvgo-aur"]
+	path = vvgo/vvgo-aur
+	url = ssh://aur@aur.archlinux.org/vvgo.git
