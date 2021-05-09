@@ -91,3 +91,6 @@
 [submodule "vvgo/vvgo-aur"]
 	path = vvgo/vvgo-aur
 	url = ssh://aur@aur.archlinux.org/vvgo.git
+[submodule "duplicut/duplicut-aur"]
+	path = duplicut/duplicut-aur
+	url = ssh://aur@aur.archlinux.org/duplicut.git
