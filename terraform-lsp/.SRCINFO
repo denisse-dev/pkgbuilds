@@ -1,0 +1,14 @@
+pkgbase = terraform-lsp
+	pkgdesc = Language Server Protocol for Terraform
+	pkgver = 0.0.10
+	pkgrel = 1
+	url = https://github.com/juliosueiras/terraform-lsp
+	arch = x86_64
+	arch = i686
+	license = MIT
+	makedepends = go-pie
+	source = https://github.com/juliosueiras/terraform-lsp/archive/v0.0.10.tar.gz
+	sha256sums = 994025cab5d312f819d0f2ae2f0e344dbbce1bd65e64aa31c0452b37cb60ba93
+
+pkgname = terraform-lsp
+
