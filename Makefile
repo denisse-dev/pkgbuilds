@@ -1,4 +1,4 @@
-.PHONY: help check build install srcinfo update-aur upload-aur update-checksums update-pkg
+.PHONY: help check build install srcinfo update-checksums update-pkg publish
 .DEFAULT_GOAL := help
 
 help:
@@ -21,16 +21,10 @@ srcinfo: ## print SRCINFO into a file
 	makepkg --printsrcinfo > .SRCINFO && \
 	echo "Done!"
 
-update-aur: ## update files in the AUR git submodule
-	cp $(pkg)/PKGBUILD $(pkg)/.SRCINFO $(pkg)/$(pkg)-aur
-
-upload-aur: ## push updated PKGBUILD and .SRCINFO to the AUR
-	cd $(pkg)/$(pkg)-aur && \
-	git add . && \
-	git commit && \
-	git push
-
 update-checksums: ## update PKGBUILD checksums
 	updpkgsums $(pkg)/PKGBUILD
 
-update-pkg: check update-checksums build srcinfo update-aur	upload-aur ## update the and upload the package to the AUR
+update-pkg: check update-checksums build srcinfo ## update the and upload the package to the AUR
+
+publish: ## publish the PKGBUILD to the AUR
+	aurpublish $(pkg)
